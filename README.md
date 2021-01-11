@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 My name is Limon. I've been using GitHub to host my repos for many years. And I always feel like it doesn't provide me with the full picture statistics-wise.
-
+![](https://komarev.com/ghpvc/?username=ilimon)
 ![](https://hit.yhype.me/github/profile?user_id=53857835)
