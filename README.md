@@ -1,20 +1,16 @@
-### Hey folks! 👋
+### Hey folks! Limon Here 👋
 
-<!--
-**antonkomarev/antonkomarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Limon Mostafa. I've been using GitHub to host my repos for many years. And I always feel like it doesn't provide me with the full picture statistics-wise.
 
-Here are some ideas to get you started:
+:/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Google Blogger.🥇
+- 🌱 I’m currently learning XML with shitt!! 👀
+- 👯 I’m looking to collaborate on Nothing ha ha. 🙃
+- 🤔 I’m looking for help with Creating a Blogger Template. 🖖
+- 💬 Ask me about anything i know. 😉
+- 📫 How to reach me: noushad.trade@gmail.com 🥳
+- 😄 Pronouns: {°_°}
+- ⚡ Fun fact: I hate PHP.. 🤫
 
-My name is Limon. I've been using GitHub to host my repos for many years. And I always feel like it doesn't provide me with the full picture statistics-wise.
 ![](https://komarev.com/ghpvc/?username=ilimon)
-![](https://hit.yhype.me/github/profile?user_id=53857835)
