@@ -1,4 +1,4 @@
-### Hey folks! Limon Here 👋
+### Hey folks! Limon Here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 My name is Limon Mostafa. I've been using GitHub to host my repos for many years. And I always feel like it doesn't provide me with the full picture statistics-wise.
 
@@ -6,15 +6,11 @@ My name is Limon Mostafa. I've been using GitHub to host my repos for many years
 - 🌱 I’m currently learning XML with shitt!! 👀
 - 👯 I’m looking to collaborate on Nothing ha ha. 🙃
 - 🤔 I’m looking for help with Creating a Blogger Template. 🖖
-- 💬 Ask me about anything i know. 😉
+- 💬 Ask me about anything i know *-*. 😉
 - 📫 How to reach me: noushad.trade@gmail.com 🥳
 - 😄 Pronouns: {°_°}
 - ⚡ Fun fact: I hate PHP.. 🤫
 
 ![](https://komarev.com/ghpvc/?username=ilimon)
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/diogorodrigues02/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/_diogorodrigues)
