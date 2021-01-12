@@ -1,4 +1,4 @@
-### Hey folks! Limon Here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hey folks! Limon Here 👋🏼
 
 My name is Limon Mostafa. I've been using GitHub to host my repos for many years. And I always feel like it doesn't provide me with the full picture statistics-wise.
 
@@ -11,5 +11,5 @@ My name is Limon Mostafa. I've been using GitHub to host my repos for many years
 - 😄 Pronouns: {°_°}
 - ⚡ Fun fact: I hate PHP.. 🤫
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram/nm.limon/)](https://www.linkedin.com/in/diogorodrigues02/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/LimonMostafa)](https://twitter.com/LimonMostafa)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.instagram/nm.limon/)](https://www.instagram.com/nm.limon/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/LimonMostafa)](https://twitter.com/LimonMostafa)
 ![](https://komarev.com/ghpvc/?username=ilimon)
