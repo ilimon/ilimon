@@ -1,6 +1,6 @@
 ### Hey folks! Limon Here 👋🏼
 
-My name is <b style="border:2px dotted">Limon Mostafa</b>. I've been using GitHub to host my repos for many years. And I always feel like it doesn't provide me with the full picture statistics-wise.
+My name is <b>Limon Mostafa</b>. I've been using GitHub to host my repos for many years. And I always feel like it doesn't provide me with the full picture statistics-wise.
 
 - 🔭 I’m currently working on Google Blogger.🥇
 - 🌱 I’m currently learning XML with shitt!! 👀
