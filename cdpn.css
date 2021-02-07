@@ -1,4 +1,3 @@
-@charset "UTF-8";
 html,body,#react-page,#link-footer,#promo-footer,.width-wrapper{background-color:#07121e}
 .profile-header{background:#232323;background-size:cover;background-repeat:no-repeat;height:0;padding-bottom:32%;background-position:center center}
 .profile-header:after{background:#232323;top:0;right:0;left:0;bottom:0;position:absolute;display:block}
@@ -9,7 +8,7 @@ html,body,#react-page,#link-footer,#promo-footer,.width-wrapper{background-color
 100%{border-radius:40% 60%}
 }
 .profile-name h1{text-align:center;position:relative;margin-left:20px;margin-top:15px}
-.profile-name h1:before,.profile-name h1:after{line-height:1.1;font-size:3rem;background:#232323;clip:rect(0,900px,0,0);color:#fff;content:"Limon SEO";white-space:pre;overflow:hidden;position:absolute;top:0;text-align:center}
+.profile-name h1:before,.profile-name h1:after{font-family:"Telefon Black",Sans-Serif;line-height:1.1;font-size:3rem;background:#232323;clip:rect(0,900px,0,0);color:#fff;content:"Limon SEO";white-space:pre;overflow:hidden;position:absolute;top:0;text-align:center}
 .profile-name h1:before{animation:glitch-1 5s infinite linear alternate-reverse;left:2px;text-shadow:1px 0 #40bad8}
 .profile-name h1:after{animation:glitch-2 3s infinite linear alternate-reverse;left:-2px;text-shadow:-1px 0 red}
 @-webkit-keyframes glitch-1 {
@@ -109,19 +108,17 @@ html,body,#react-page,#link-footer,#promo-footer,.width-wrapper{background-color
 .profile-links > a:not(.button):hover{color:#000;opacity:.5;transition:opacity .25s ease-in-out}
 .profile-location-and-bio{padding:10px 0 20px;background-color:#FFF;margin-bottom:40px;border-bottom:3px solid #3eadcf;border-image:linear-gradient(45deg,rgba(0,220,175,.92) 0,rgba(82,62,232,.92) 100%) 1 stretch}
 .profile-location{text-transform:uppercase;letter-spacing:1.5px;color:#333;margin-bottom:7px;font-size:10px}
-.profile-bio{font-size:18px;color:#f35626;background-image:-webkit-linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);-webkit-background-clip:text;-webkit-text-fill-color:transparent;-webkit-animation:hue 5s infinite linear}
+.profile-bio{font-size:18px;color:#f35626;background-image:-webkit-linear-gradient(-45deg,rgba(82,62,232,.92) 0,rgba(0,220,175,.92) 100%);-webkit-background-clip:text;-webkit-text-fill-color:transparent;-webkit-animation:hue 5s infinite linear}
 @-webkit-keyframes hue {
 from{-webkit-filter:hue-rotate(0deg)}
 to{-webkit-filter:hue-rotate(-360deg)}
 }
-.profile-nav-1{font-family: 'Lato';transition: all .2s ease-in-out;border-bottom-color:transparent;border-bottom-width:0;margin-bottom:0;}
-.profile-nav-1 a{padding: 0.3em 0.85em;margin: 0.5em;color:#a1a1af;border: 3px solid #28242f;border-radius: 2em;margin-bottom:10px}
-.profile-nav-1 a.active{color:#f35626;background: linear-gradient(to right, #ff8a00, #da1b60);-webkit-background-clip:text;-webkit-text-fill-color:transparent;text-transform:uppercase;}
+.profile-nav-1{border-bottom-color:transparent;border-bottom-width:0;margin-bottom:0}
+.profile-nav-1 a{padding:8px 20px;color: #F6F8FF;box-shadow: #{rgba(#001177, .025)};padding: 8px 20px 8px 24px;background-color:#1E2235;border-radius:9px;margin-right:5px;margin-bottom:10px;font-family: 'Nunito', sans-serif;}
+.profile-nav-1 a.active{color:#F6F8FF!important;text-transform:uppercase;}
 .profile-nav-1 a:last-child{margin-right:0}
-.profile-nav-1 a:first-child{margin-left:0}
-.profile-nav-2{font-family: 'Lato';text-transform:none;color: #a1a1af;background-color:#17141d;border-radius:9px;padding-left:5px;padding-right:15px;font-family: 'Nunito', sans-serif;}
-.profile-nav-2 a:first-child{margin-left:0!important}
-.profile-nav-2 a{padding: 0.3em 0.85em;margin: 0.5em;color:#a1a1af;border: 3px solid #28242f;border-radius: 2em;}
+.profile-nav-2{text-transform:none;color: #F6F8FF;background-color:#1E2235;border-radius:9px;padding-left:15px;padding-right:15px;font-family: 'Nunito', sans-serif;}
+.profile-nav-2 a{padding-right:0;margin-right:14px;color:#fff;opacity:.85}
 .profile-nav-2 a.active{opacity:1}
 .profile-nav-2 a:hover{opacity:.75}
 #profile-content-wrap{margin-bottom:40px}
