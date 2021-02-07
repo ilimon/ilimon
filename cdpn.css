@@ -1,0 +1,128 @@
+@charset "UTF-8";
+html,body,#react-page,#link-footer,#promo-footer,.width-wrapper{background-color:#07121e}
+.profile-header{background:#232323;background-size:cover;background-repeat:no-repeat;height:0;padding-bottom:32%;background-position:center center}
+.profile-header:after{background:#232323;top:0;right:0;left:0;bottom:0;position:absolute;display:block}
+.links-and-stats{border-top:3px solid #CDDC39;border-image:linear-gradient(45deg,rgba(82,62,232,.92) 0,rgba(0,220,175,.92) 100%) 1 stretch}
+.profile-avatar{border-radius:50px;border:0;border:2px;margin-left:20px;margin-top:15px;animation:morph 8s ease-in-out infinite both alternate;border:1px solid #fff;box-shadow:0 0 0 .5em rgba(255,255,255,0.5)}
+@keyframes morph {
+0%{border-radius:40% 60% 60% 40%/60% 30% 70% 40%}
+100%{border-radius:40% 60%}
+}
+.profile-name h1{text-align:center;position:relative;margin-left:20px;margin-top:15px}
+.profile-name h1:before,.profile-name h1:after{line-height:1.1;font-size:3rem;background:#232323;clip:rect(0,900px,0,0);color:#fff;content:"Limon SEO";white-space:pre;overflow:hidden;position:absolute;top:0;text-align:center}
+.profile-name h1:before{animation:glitch-1 5s infinite linear alternate-reverse;left:2px;text-shadow:1px 0 #40bad8}
+.profile-name h1:after{animation:glitch-2 3s infinite linear alternate-reverse;left:-2px;text-shadow:-1px 0 red}
+@-webkit-keyframes glitch-1 {
+0%{clip:rect(26px,9999px,21px,0)}
+6.25%{clip:rect(70px,9999px,224px,0)}
+12.5%{clip:rect(34px,9999px,163px,0)}
+18.75%{clip:rect(9px,9999px,117px,0)}
+25%{clip:rect(97px,9999px,268px,0)}
+31.25%{clip:rect(43px,9999px,259px,0)}
+37.5%{clip:rect(89px,9999px,91px,0)}
+43.75%{clip:rect(92px,9999px,142px,0)}
+50%{clip:rect(36px,9999px,280px,0)}
+56.25%{clip:rect(94px,9999px,190px,0)}
+62.5%{clip:rect(4px,9999px,26px,0)}
+68.75%{clip:rect(68px,9999px,235px,0)}
+75%{clip:rect(54px,9999px,248px,0)}
+81.25%{clip:rect(69px,9999px,53px,0)}
+87.5%{clip:rect(8px,9999px,54px,0)}
+93.75%{clip:rect(64px,9999px,115px,0)}
+100%{clip:rect(91px,9999px,128px,0)}
+}
+@keyframes glitch-1 {
+0%{clip:rect(26px,9999px,21px,0)}
+6.25%{clip:rect(70px,9999px,224px,0)}
+12.5%{clip:rect(34px,9999px,163px,0)}
+18.75%{clip:rect(9px,9999px,117px,0)}
+25%{clip:rect(97px,9999px,268px,0)}
+31.25%{clip:rect(43px,9999px,259px,0)}
+37.5%{clip:rect(89px,9999px,91px,0)}
+43.75%{clip:rect(92px,9999px,142px,0)}
+50%{clip:rect(36px,9999px,280px,0)}
+56.25%{clip:rect(94px,9999px,190px,0)}
+62.5%{clip:rect(4px,9999px,26px,0)}
+68.75%{clip:rect(68px,9999px,235px,0)}
+75%{clip:rect(54px,9999px,248px,0)}
+81.25%{clip:rect(69px,9999px,53px,0)}
+87.5%{clip:rect(8px,9999px,54px,0)}
+93.75%{clip:rect(64px,9999px,115px,0)}
+100%{clip:rect(91px,9999px,128px,0)}
+}
+@-webkit-keyframes glitch-2 {
+0%{clip:rect(6px,9999px,159px,0)}
+6.25%{clip:rect(52px,9999px,129px,0)}
+12.5%{clip:rect(79px,9999px,52px,0)}
+18.75%{clip:rect(66px,9999px,226px,0)}
+25%{clip:rect(62px,9999px,184px,0)}
+31.25%{clip:rect(91px,9999px,214px,0)}
+37.5%{clip:rect(71px,9999px,142px,0)}
+43.75%{clip:rect(19px,9999px,20px,0)}
+50%{clip:rect(52px,9999px,176px,0)}
+56.25%{clip:rect(13px,9999px,161px,0)}
+62.5%{clip:rect(45px,9999px,75px,0)}
+68.75%{clip:rect(82px,9999px,170px,0)}
+75%{clip:rect(85px,9999px,280px,0)}
+81.25%{clip:rect(57px,9999px,91px,0)}
+87.5%{clip:rect(2px,9999px,127px,0)}
+93.75%{clip:rect(50px,9999px,255px,0)}
+100%{clip:rect(48px,9999px,38px,0)}
+}
+@keyframes glitch-2 {
+0%{clip:rect(6px,9999px,159px,0)}
+6.25%{clip:rect(52px,9999px,129px,0)}
+12.5%{clip:rect(79px,9999px,52px,0)}
+18.75%{clip:rect(66px,9999px,226px,0)}
+25%{clip:rect(62px,9999px,184px,0)}
+31.25%{clip:rect(91px,9999px,214px,0)}
+37.5%{clip:rect(71px,9999px,142px,0)}
+43.75%{clip:rect(19px,9999px,20px,0)}
+50%{clip:rect(52px,9999px,176px,0)}
+56.25%{clip:rect(13px,9999px,161px,0)}
+62.5%{clip:rect(45px,9999px,75px,0)}
+68.75%{clip:rect(82px,9999px,170px,0)}
+75%{clip:rect(85px,9999px,280px,0)}
+81.25%{clip:rect(57px,9999px,91px,0)}
+87.5%{clip:rect(2px,9999px,127px,0)}
+93.75%{clip:rect(50px,9999px,255px,0)}
+100%{clip:rect(48px,9999px,38px,0)}
+}
+.profile-username{color:#FFDD40;padding-left:20px;padding-bottom:-3px;padding-top:-30px}
+.profile-username1:after{content:'m is life';margin-left:10px;font-size:18px;line-height: 24px;height: auto;border-radius: 5px;background:#FFDD40;padding: 2px 8px;text-align: center;width: auto;font-family: HelveticaNeue-CondensedBold, HelveticaNeue-Light, 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;}
+@media screen and (min-width:980px){
+.profile-avatar{margin-bottom:12px!important}
+.links-and-stats{background:#232323!important;color:#fff!important;}
+.links-and-stats a{color:#fff!important}
+.profile-username{display:none}
+}
+.links-and-stats{background-color:#fff;}
+.profile-avatar{border-radius:50%;border-color:#fff;border-width:4px}
+.follow-block{color:#000;opacity:1;transition:opacity .25s ease-in-out}
+.follow-block:first-child::after{content:"|";disply:inline-block;position:rekative;margin-left:10px}
+.follow-block:last-child::before{margin-left:-5px}
+.follow-block:hover{color:#000;background-color:transparent;opacity:.5;transition:opacity .25s ease-in-out}
+.follow-block:hover strong{color:#000}
+.follow-block strong{color:#000;font-weight:700}
+.profile-links > a:not(.button){color:#000;opacity:1;transition:opacity .25s ease-in-out}
+.profile-links > a:not(.button):first-child{margin-left:10px}
+.profile-links > a:not(.button):hover{color:#000;opacity:.5;transition:opacity .25s ease-in-out}
+.profile-location-and-bio{padding:10px 0 20px;background-color:#FFF;margin-bottom:40px;border-bottom:3px solid #3eadcf;border-image:linear-gradient(45deg,rgba(0,220,175,.92) 0,rgba(82,62,232,.92) 100%) 1 stretch}
+.profile-location{text-transform:uppercase;letter-spacing:1.5px;color:#333;margin-bottom:7px;font-size:10px}
+.profile-bio{font-size:18px;color:#f35626;background-image:-webkit-linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);-webkit-background-clip:text;-webkit-text-fill-color:transparent;-webkit-animation:hue 5s infinite linear}
+@-webkit-keyframes hue {
+from{-webkit-filter:hue-rotate(0deg)}
+to{-webkit-filter:hue-rotate(-360deg)}
+}
+.profile-nav-1{font-family: 'Lato';transition: all .2s ease-in-out;border-bottom-color:transparent;border-bottom-width:0;margin-bottom:0;}
+.profile-nav-1 a{padding: 0.3em 0.85em;margin: 0.5em;color:#a1a1af;border: 3px solid #28242f;border-radius: 2em;margin-bottom:10px}
+.profile-nav-1 a.active{color:#f35626;background: linear-gradient(to right, #ff8a00, #da1b60);-webkit-background-clip:text;-webkit-text-fill-color:transparent;text-transform:uppercase;}
+.profile-nav-1 a:last-child{margin-right:0}
+.profile-nav-1 a:first-child{margin-left:0}
+.profile-nav-2{font-family: 'Lato';text-transform:none;color: #a1a1af;background-color:#17141d;border-radius:9px;padding-left:5px;padding-right:15px;font-family: 'Nunito', sans-serif;}
+.profile-nav-2 a:first-child{margin-left:0!important}
+.profile-nav-2 a{padding: 0.3em 0.85em;margin: 0.5em;color:#a1a1af;border: 3px solid #28242f;border-radius: 2em;}
+.profile-nav-2 a.active{opacity:1}
+.profile-nav-2 a:hover{opacity:.75}
+#profile-content-wrap{margin-bottom:40px}
+.single-item::after{background:#0f1e2d}
