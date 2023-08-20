@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/ilimon?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FDhaka)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&weight=700&size=25&pause=1000&color=1E59F1&center=true&vCenter=true&multiline=true&width=435&height=180&lines=I'm+Noushad+Mostafa+Limon.;From+Dhaka+Bangladesh;BA+in+English%2C+DIU;Only+Know+Little+CSS;Into+Web+Stuff+for+FUN)](https://git.io/typing-svg)
